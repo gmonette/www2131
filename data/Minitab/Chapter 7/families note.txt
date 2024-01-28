@@ -1,0 +1,1 @@
+The student version of Minitab 14 does not support datasets over 10,000 elements. Familes exceeds this. The file 'families.mtw' is in the Minitab 13 standard format.  Please refer to another format if you are using the student version of Minitab.

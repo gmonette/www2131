@@ -1,0 +1,1 @@
+The student version of Minitab 14 does not support datasets over 10,000 elements. 'flow-occ' exceeds this.   Please refer to another format if you are using the student version of Minitab.

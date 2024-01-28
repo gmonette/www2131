@@ -1,0 +1,100 @@
+Minitab Portable Worksheet P1.1             2006 215 Rel    14.0               .
+%      3      1     54    -10 Wrestling Style                                  .
+Freestyle  Freestyle  Freestyle  Freestyle  Freestyle  Freestyle  Freestyle    .
+Freestyle  Freestyle  Freestyle  Freestyle  Freestyle  Freestyle  Freestyle    .
+Freestyle  Freestyle  Freestyle  Freestyle  Freestyle  Freestyle  Freestyle    .
+Freestyle  Freestyle  Freestyle  Freestyle  Freestyle  Freestyle  Freestyle    .
+Freestyle  Freestyle  Freestyle  Freestyle  Freestyle  Freestyle  Freestyle    .
+Freestyle  Freestyle  Freestyle  Freestyle  Freestyle  Freestyle  Freestyle    .
+Freestyle  Freestyle  Freestyle  Freestyle  Freestyle  Freestyle  Freestyle    .
+Freestyle  Freestyle  Freestyle  Freestyle  Freestyle                          .
+%      3      2     54    -10 Weight Class                                     .
+55kg       55kg       55kg       55kg       55kg       55kg       55kg         .
+55kg       60kg       60kg       60kg       60kg       60kg       60kg         .
+60kg       66kg       66kg       66kg       66kg       66kg       66kg         .
+66kg       66kg       74kg       74kg       74kg       74kg       74kg         .
+74kg       74kg       74kg       84kg       84kg       84kg       84kg         .
+84kg       84kg       84kg       84kg       96kg       96kg       96kg         .
+96kg       96kg       96kg       96kg       96kg       120kg      120kg        .
+120kg      120kg      120kg      120kg      120kg                              .
+%      3      3     54      0 Red Wrestler ID                                  .
+ 2.550300000E+04 2.550900000E+04 2.551300000E+04 2.550300000E+04 2.551800000E+04
+ 2.550600000E+04 2.551000000E+04 2.550300000E+04 2.600300000E+04 2.600700000E+04
+ 2.600300000E+04 2.601500000E+04 2.600600000E+04 2.600300000E+04 2.600700000E+04
+ 2.660300000E+04 2.660700000E+04 2.661400000E+04 2.660600000E+04 2.661600000E+04
+ 2.660300000E+04 2.660600000E+04 2.661100000E+04 2.740300000E+04 2.740900000E+04
+ 2.741400000E+04 2.740300000E+04 2.741700000E+04 2.741100000E+04 2.740300000E+04
+ 2.740900000E+04 2.840100000E+04 2.840800000E+04 2.841300000E+04 2.841600000E+04
+ 2.841700000E+04 2.840100000E+04 2.841200000E+04 2.840600000E+04 2.960100000E+04
+ 2.960700000E+04 2.961500000E+04 2.960500000E+04 2.961500000E+04 2.960100000E+04
+ 2.961100000E+04 2.960500000E+04 2.120010000E+05 2.120070000E+05 2.120010000E+05
+ 2.120150000E+05 2.120050000E+05 2.120120000E+05 2.120010000E+05               .
+%      3      4     54      0 Blue Wrestler ID                                 .
+ 2.550600000E+04 2.551000000E+04 2.551800000E+04 2.551000000E+04 2.552000000E+04
+ 2.550900000E+04 2.552000000E+04 2.551800000E+04 2.600600000E+04 2.601100000E+04
+ 2.600700000E+04 2.601900000E+04 2.601100000E+04 2.601900000E+04 2.601500000E+04
+ 2.660600000E+04 2.661100000E+04 2.661600000E+04 2.661100000E+04 2.662100000E+04
+ 2.660700000E+04 2.661600000E+04 2.662100000E+04 2.740600000E+04 2.741100000E+04
+ 2.741700000E+04 2.740900000E+04 2.742000000E+04 2.741400000E+04 2.742000000E+04
+ 2.741700000E+04 2.840600000E+04 2.841200000E+04 2.841700000E+04 2.841200000E+04
+ 2.841900000E+04 2.840800000E+04 2.841900000E+04 2.841700000E+04 2.960500000E+04
+ 2.961100000E+04 2.961800000E+04 2.961100000E+04 2.962000000E+04 2.960700000E+04
+ 2.962000000E+04 2.961500000E+04 2.120050000E+05 2.120120000E+05 2.120120000E+05
+ 2.120170000E+05 2.120070000E+05 2.120150000E+05 2.120150000E+05               .
+%      3      5     54    -13 Round of Competition                             .
+Qualification Qualification Qualification Semifinals    Semifinals             .
+5th/6th       Bronze        Gold          Qualification Qualification          .
+Semifinals    Semifinals    5th/6th       Bronze        Gold                   .
+Qualification Qualification Qualification Semifinals    Semifinals             .
+5th/6th       Bronze        Gold          Qualification Qualification          .
+Qualification Semifinals    Semifinals    5th/6th       Bronze                 .
+Gold          Qualification Qualification Qualification Semifinals             .
+Semifinals    5th/6th       Bronze        Gold          Qualification          .
+Qualification Qualification Semifinals    Semifinals    5th/6th                .
+Bronze        Gold          Qualification Qualification Semifinals             .
+Semifinals    5th/6th       Bronze        Gold                                 .
+%      3      6     54    -10 Winner                                           .
+Red        Blue       Blue       Red        Red        Red        Red          .
+Blue       Red        Red        Blue       Red        Blue       Blue         .
+Red        Blue       Blue       Blue       Blue       Blue       Red          .
+Blue       Red        Red        Red        Blue       Blue       Red          .
+Red        Red        Blue       Blue       Blue       Blue       Red          .
+Red        Red        Blue       Red        Blue       Blue       Red          .
+Red        Red        Blue       Red        Blue       Red        Blue         .
+Red        Blue       Blue       Red        Red                                .
+%      3      7     54      0 Points Scored by Red                             .
+ 9.000000000E+00 0.000000000E+00 0.000000000E+00 6.000000000E+00 1.000000000E+01
+ 9.000000000E+00 1.000000000E+01 2.000000000E+00 9.000000000E+00 8.000000000E+00
+ 2.000000000E+00 8.000000000E+00 0.000000000E+00 6.000000000E+00 7.000000000E+00
+ 3.000000000E+00 3.000000000E+00 0.000000000E+00 3.000000000E+00 2.000000000E+00
+ 9.000000000E+00 2.000000000E+00 8.000000000E+00 6.000000000E+00 6.000000000E+00
+ 3.000000000E+00 5.000000000E+00 1.100000000E+01 4.000000000E+00 6.000000000E+00
+ 0.000000000E+00 6.000000000E+00 2.000000000E+00 2.000000000E+00 6.000000000E+00
+ 1.300000000E+01 6.000000000E+00 4.000000000E+00 6.000000000E+00 2.000000000E+00
+ 0.000000000E+00 6.000000000E+00 9.000000000E+00 8.000000000E+00 0.000000000E+00
+ 6.000000000E+00 2.000000000E+00 1.000000000E+01 2.000000000E+00 6.000000000E+00
+ 2.000000000E+00 0.000000000E+00 6.000000000E+00 8.000000000E+00               .
+%      3      8     54      0 Points Scored by Blue                            .
+ 2.000000000E+00 1.400000000E+01 7.000000000E+00 0.000000000E+00 2.000000000E+00
+ 5.000000000E+00 0.000000000E+00 1.200000000E+01 0.000000000E+00 0.000000000E+00
+ 6.000000000E+00 5.000000000E+00 4.000000000E+00 9.000000000E+00 0.000000000E+00
+ 6.000000000E+00 9.000000000E+00 9.000000000E+00 7.000000000E+00 6.000000000E+00
+ 5.000000000E+00 5.000000000E+00 2.000000000E+00 2.000000000E+00 3.000000000E+00
+ 6.000000000E+00 8.000000000E+00 0.000000000E+00 0.000000000E+00 2.000000000E+00
+ 1.000000000E+01 9.000000000E+00 6.000000000E+00 6.000000000E+00 3.000000000E+00
+ 0.000000000E+00 0.000000000E+00 8.000000000E+00 2.000000000E+00 7.000000000E+00
+ 8.000000000E+00 0.000000000E+00 5.000000000E+00 0.000000000E+00 7.000000000E+00
+ 3.000000000E+00 7.000000000E+00 4.000000000E+00 6.000000000E+00 0.000000000E+00
+ 7.000000000E+00 4.000000000E+00 2.000000000E+00 0.000000000E+00               .
+%      3      9     54    -10 Won by Walkover?                                 .
+No         No         No         No         No         No         No           .
+No         No         No         No         No         Yes        No           .
+No         No         No         No         No         No         No           .
+No         No         No         No         No         No         No           .
+Yes        No         No         No         No         No         No           .
+No         No         No         No         No         No         No           .
+No         No         No         No         No         No         No           .
+No         No         Yes        No         No                                 .
+%    100      0      0      0                                                  .
+%    101      0      0      0                                                  .
+%    102      0      0      0                                                  .

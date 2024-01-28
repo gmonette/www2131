@@ -1,0 +1,21 @@
+Minitab Portable Worksheet P1.1             2006 215 Rel    14.0               .
+%      3      1     27    -10 Furnace                                          .
+1          1          1          1          1          1          1            .
+1          1          2          2          2          2          2            .
+2          2          2          2          3          3          3            .
+3          3          3          3          3          3                       .
+%      3      2     27    -10 Wafer Type                                       .
+Virgin     Virgin     Virgin     In-House   In-House   In-House   External     .
+External   External   Virgin     Virgin     Virgin     In-House   In-House     .
+In-House   External   External   External   Virgin     Virgin     Virgin       .
+In-House   In-House   In-House   External   External   External                .
+%      3      3     27      0 Thickness                                        .
+ 9.010000000E+01 9.070000000E+01 8.940000000E+01 9.040000000E+01 8.880000000E+01
+ 9.060000000E+01 9.260000000E+01 9.000000000E+01 9.330000000E+01 9.190000000E+01
+ 8.860000000E+01 8.970000000E+01 9.030000000E+01 9.190000000E+01 9.150000000E+01
+ 8.830000000E+01 8.820000000E+01 8.940000000E+01 8.810000000E+01 9.020000000E+01
+ 8.660000000E+01 9.100000000E+01 9.040000000E+01 9.020000000E+01 9.150000000E+01
+ 8.980000000E+01 8.980000000E+01                                               .
+%    100      0      0      0                                                  .
+%    101      0      0      0                                                  .
+%    102      0      0      0                                                  .

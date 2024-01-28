@@ -1,0 +1,50 @@
+ASCII SPSS PORT FILE                    ASCII SPSS PORT FILE                    
+ASCII SPSS PORT FILE                    ASCII SPSS PORT FILE                    
+ASCII SPSS PORT FILE                    0000000000000000000000000000000000000000
+0000000000000000000000000123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrst
+uvwxyz .<(+0&[]!$*);^-/|,%_>?`:#@'="000000~000000000000000000000{}\0000000000000
+00000000000000000000000000000000000000000000000000000000SPSSPORTA8/200601156/   
+   1D/STAT/TRANSFER49/5A/7F/8/WRESTLIN1/F/0/1/F/0/7C/8/WEIGHT_C1/C/0/1/C/0/70/8/
+RED_WRES5/9/2/5/9/2/70/8/BLUE_WRE5/9/2/5/9/2/7K/8/ROUND_OF1/K/0/1/K/0/76/6/WINNE
+R1/6/0/1/6/0/70/8/POINTS_S5/9/2/5/9/2/70/8/POINTS_05/9/2/5/9/2/7G/8/WON_BY_W1/G/
+0/1/G/0/F9/Freestyle4/55kgSA2.TTTTTTO/SA5.TTTTTTO/D/Qualification3/Red9/2/2/No9/
+Freestyle4/55kgSA8.TTTTTTO/SA9.TTTTTTO/D/Qualification4/Blue0/E/2/No9/Freestyle4
+/55kgSAC.TTTTTTO/SAH.TTTTTTO/D/Qualification4/Blue0/7/2/No9/Freestyle4/55kgSA2.T
+TTTTTO/SA9.TTTTTTO/A/Semifinals3/Red6/0/2/No9/Freestyle4/55kgSAH.TTTTTTO/SAJ.TTT
+TTTO/A/Semifinals3/RedA/2/2/No9/Freestyle4/55kgSA5.TTTTTTO/SA8.TTTTTTO/7/5th/6th
+3/Red9/5/2/No9/Freestyle4/55kgSA9.TTTTTTO/SAJ.TTTTTTO/6/Bronze3/RedA/0/2/No9/Fre
+estyle4/55kgSA2.TTTTTTO/SAH.TTTTTTO/4/Gold4/Blue2/C/2/No9/Freestyle4/60kgSQM.TTT
+TTTO/SQP.TTTTTTO/D/Qualification3/Red9/0/2/No9/Freestyle4/60kgSQQ.TTTTTTO/SR0.TT
+TTTTO/D/Qualification3/Red8/0/2/No9/Freestyle4/60kgSQM.TTTTTTO/SQQ.TTTTTTO/A/Sem
+ifinals4/Blue2/6/2/No9/Freestyle4/60kgSR4.TTTTTTO/SR8.TTTTTTO/A/Semifinals3/Red8
+/5/2/No9/Freestyle4/60kgSQP.TTTTTTO/SR0.TTTTTTO/7/5th/6th4/Blue0/4/3/Yes9/Freest
+yle4/60kgSQM.TTTTTTO/SR8.TTTTTTO/6/Bronze4/Blue6/9/2/No9/Freestyle4/60kgSQQ.TTTT
+TTO/SR4.TTTTTTO/4/Gold3/Red7/0/2/No9/Freestyle4/66kgTGM.TTTTTTO/TGP.TTTTTTO/D/Qu
+alification4/Blue3/6/2/No9/Freestyle4/66kgTGQ.TTTTTTO/TH0.TTTTTTO/D/Qualificatio
+n4/Blue3/9/2/No9/Freestyle4/66kgTH3.TTTTTTO/TH5.TTTTTTO/D/Qualification4/Blue0/9
+/2/No9/Freestyle4/66kgTGP.TTTTTTO/TH0.TTTTTTO/A/Semifinals4/Blue3/7/2/No9/Freest
+yle4/66kgTH5.TTTTTTO/THA.TTTTTTO/A/Semifinals4/Blue2/6/2/No9/Freestyle4/66kgTGM.
+TTTTTTO/TGQ.TTTTTTO/7/5th/6th3/Red9/5/2/No9/Freestyle4/66kgTGP.TTTTTTO/TH5.TTTTT
+TO/6/Bronze4/Blue2/5/2/No9/Freestyle4/66kgTH0.TTTTTTO/THA.TTTTTTO/4/Gold3/Red8/2
+/2/No9/Freestyle4/74kg010DD/010DG/D/Qualification3/Red6/2/2/No9/Freestyle4/74kg0
+10DJ/010DL/D/Qualification3/Red6/3/2/No9/Freestyle4/74kg010DO/010DR/D/Qualificat
+ion4/Blue3/6/2/No9/Freestyle4/74kg010DD/010DJ/A/Semifinals4/Blue5/8/2/No9/Freest
+yle4/74kg010DR/010E+1/A/Semifinals3/RedB/0/2/No9/Freestyle4/74kg010DL/010DO/7/5t
+h/6th3/Red4/0/3/Yes9/Freestyle4/74kg010DD/010E+1/6/Bronze3/Red6/2/2/No9/Freestyl
+e4/74kg010DJ/010DR/4/Gold4/Blue0/A/2/No9/Freestyle4/84kg011GL/011GQ/D/Qualificat
+ion4/Blue6/9/2/No9/Freestyle4/84kg011GS/011H2/D/Qualification4/Blue2/6/2/No9/Fre
+estyle4/84kg011H3/011H7/D/Qualification4/Blue2/6/2/No9/Freestyle4/84kg011H6/011H
+2/A/Semifinals3/Red6/3/2/No9/Freestyle4/84kg011H7/011H9/A/Semifinals3/RedD/0/2/N
+o9/Freestyle4/84kg011GL/011GS/7/5th/6th3/Red6/0/2/No9/Freestyle4/84kg011H2/011H9
+/6/Bronze4/Blue4/8/2/No9/Freestyle4/84kg011GQ/011H7/4/Gold3/Red6/2/2/No9/Freesty
+le4/96kg012QL/012QP/D/Qualification4/Blue2/7/2/No9/Freestyle4/96kg012QR/012R1/D/
+Qualification4/Blue0/8/2/No9/Freestyle4/96kg012R5/012R8/D/Qualification3/Red6/0/
+2/No9/Freestyle4/96kg012QP/012R1/A/Semifinals3/Red9/5/2/No9/Freestyle4/96kg012R5
+/012RA/A/Semifinals3/Red8/0/2/No9/Freestyle4/96kg012QL/012QR/7/5th/6th4/Blue0/7/
+2/No9/Freestyle4/96kg012R1/012RA/6/Bronze3/Red6/3/2/No9/Freestyle4/96kg012QP/012
+R5/4/Gold4/Blue2/7/2/No9/Freestyle5/120kg07PGL/07PGP/D/Qualification3/RedA/4/2/N
+o9/Freestyle5/120kg07PGR/07PH2/D/Qualification4/Blue2/6/2/No9/Freestyle5/120kg07
+PGL/07PH2/A/Semifinals3/Red6/0/2/No9/Freestyle5/120kg07PH5/07PH7/A/Semifinals4/B
+lue2/7/2/No9/Freestyle5/120kg07PGP/07PGR/7/5th/6th4/Blue0/4/3/Yes9/Freestyle5/12
+0kg07PH2/07PH5/6/Bronze3/Red6/2/2/No9/Freestyle5/120kg07PGL/07PH5/4/Gold3/Red8/0
+/2/NoZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
