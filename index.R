@@ -155,9 +155,6 @@ rglwidget()
 #'        your contributions. 
 #' - __Topic 1:__ How harmful is smoking?
 #'
-##+ CURRENT ----
-#' <span id='CURRENT'></span>
-#'    
 ##- Day 2 ------
 #'
 #' ## __Day 2__: Wednesday, January 10
@@ -319,9 +316,6 @@ rglwidget()
 #' - [Summary of Chapters 1 and 2 -- Chapter 1](files/Chapters-1-2/Review_Chapter_1_annotated.pdf)
 #' - [Summary of Chapters 1 and 2 -- Chapter 2 -- in progress](files/Chapters-1-2/Review_Chapter_2_annotated.pdf)
 #' 
-##+ CURRENT ----
-#' <span id='CURRENT'></span>
-#'    
 ##- Day 6 ------
 #'
 #' ## __Day 6__: Friday, January 19
@@ -335,35 +329,46 @@ rglwidget()
 #'
 #' ## __Day 7__: Monday, January 22
 #' 
-#' __Chapters 3 of the textbook (continuation):__
+#' __Chapter 3 of the textbook (continuation):__
 #' 
-#' - [Chapters 3](files/Chapter-3/Chapter_3_annotated.pdf)
+#' - [Chapter 3](files/Chapter-3/Chapter_3_annotated.pdf)
 #' 
 #' 
 ##- Day 8 ------
 #'
 #' ## __Day 8__: Wednesday, January 24
 #' 
-#' __Chapters 3 of the textbook (continuation):__
+#' __Chapter 3 of the textbook (continuation):__
 #' 
-#' - [Chapters 3](files/Chapter-3/Chapter_3_annotated.pdf)
+#' - [Chapter 3](files/Chapter-3/Chapter_3_annotated.pdf)
 #' 
 ##- Day 9 ------
 #'
 #' ## __Day 9__: Friday, January 26
 #' 
-#' __Chapters 3 of the textbook (continuation):__
+#' __Chapter 3 of the textbook (continuation):__
 #' 
-#' - [Chapters 3](files/Chapter-3/Chapter_3_annotated.pdf)
+#' - [Chapter 3](files/Chapter-3/Chapter_3_annotated.pdf)
 #' 
 #' 
 ##- Day 10 ------
 #'
 #' ## __Day 10__: Monday, January 29
 #' 
-#' __Chapters 3 of the textbook (continuation):__
+#' __Chapter 3 of the textbook (continuation):__
 #' 
+#' - The following link is to the folder for Chapter 3, in order to provide
+#'   faster access to files.
+#' - Original pdf files, without lecture annotations, include "original" in their names.
+#' - Files with lecture annotations include "annotated" in their names.
+#' - Ignore files with .xopp extensions unless you want to view them with 'xournalpp' app.
+#'   
 #' - [Chapters 3](files/Chapter-3/)
+#' 
+#' __Quiz on Wednesday, January 31:__
+#' 
+#' The quiz question will ask you to find a marginal density from a
+#' joint density in which the support for $X$ depends on the value of $Y$ and vice-versa.
 #' 
 ##+ CURRENT ----
 #' <span id='CURRENT'></span>
