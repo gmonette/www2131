@@ -331,10 +331,6 @@ rglwidget()
 #' - [Summary of Chapters 1 and 2 -- Chapter 1](files/Chapters-1-2/Review_Chapter_1_annotated.pdf)
 #' - [Summary of Chapters 1 and 2 -- Chapter 2 -- in progress](files/Chapters-1-2/Review_Chapter_2_annotated.pdf)
 #' 
-
-##+ CURRENT ----
-#' <span id='CURRENT'></span>
-#'    
 ##- Day 7 ------
 #'
 #' ## __Day 7__: Monday, January 22
@@ -343,5 +339,32 @@ rglwidget()
 #' 
 #' - [Chapters 3](files/Chapter-3/Chapter_3_annotated.pdf)
 #' 
-
-
+#' 
+##- Day 8 ------
+#'
+#' ## __Day 8__: Wednesday, January 24
+#' 
+#' __Chapters 3 of the textbook (continuation):__
+#' 
+#' - [Chapters 3](files/Chapter-3/Chapter_3_annotated.pdf)
+#' 
+##- Day 9 ------
+#'
+#' ## __Day 9__: Friday, January 26
+#' 
+#' __Chapters 3 of the textbook (continuation):__
+#' 
+#' - [Chapters 3](files/Chapter-3/Chapter_3_annotated.pdf)
+#' 
+#' 
+##- Day 10 ------
+#'
+#' ## __Day 10__: Monday, January 29
+#' 
+#' __Chapters 3 of the textbook (continuation):__
+#' 
+#' - [Chapters 3](files/Chapter-3/)
+#' 
+##+ CURRENT ----
+#' <span id='CURRENT'></span>
+#'    
