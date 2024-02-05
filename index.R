@@ -370,6 +370,75 @@ rglwidget()
 #' The quiz question will ask you to find a marginal density from a
 #' joint density in which the support for $X$ depends on the value of $Y$ and vice-versa.
 #' 
+#' 
+#' 
+##- Day 11 ------
+#'
+#' ## __Day 11__: Wednesday, January 31
+#' 
+#' __Chapter 3 of the textbook (continuation):__
+#'   
+#' - [Chapters 3](files/Chapter-3/)
+#' 
+#' 
+##- Day 12 ------
+#'
+#' ## __Day 12__: Friday, February 2
+#' 
+#' __Chapter 3 of the textbook (continuation):__
+#'   
+#' - [Chapters 3](files/Chapter-3/)
+#' 
+##- Day 13 ------
+#'
+#' ## __Day 13__: Monday, February 5
+#' 
+#' __Chapter 3 of the textbook (continuation):__
+#' 
+#' - [Chapters 3](files/Chapter-3/)
+#' 
+##- ### Assignment 4 (team): Chapter 3 ------
+#' ### __Assignment 3__ (team):
+#' 
+#' - Deadlines (check the [course description](files/description.html) for the meaning of these deadlines)
+#'     - Deadline #1: Monday, February 12 at 8pm
+#'     - Deadline #2: Wednesday, February 14 at 8pm
+#'     - Deadline #3: Friday, February 16 at 8pm
+#' - Submitting work on Piazza:  You can upload, or cut and paste pictures of
+#'   your work.  However, I encourage you to answer directly in
+#'   Piazza and to use the LaTeX editor within Piazza for math. 
+#'   See [this post in Piazza](https://piazza.com/class/lpxipx8lbrc6ho/post/30)
+#'   about using LaTeX on Piazza.
+#'   Add other resources to it if you find some.
+#' - For this assignment, assign each person in your group a number starting from 6 downward towards 1
+#'   using your alphabetical order based on your 
+#'   first name.
+#' - Depending on your number, do the questions below by deadline 1 and
+#'   post them on Piazza.
+#'     - Use the folder 'assn_4'.
+#'     - __Important:__ Use a __single separate post__ for each question
+#'       and use the title: 'Chapter X Problem Y' where X is the
+#'       chapter number and Y is the problem number. Be sure to leave spaces
+#'       exactly as shown.  Why should you do it this way? 
+#'       Because when solutions are made public, you will be able to find
+#'       all the solutions to the same problem together.
+#'     - Use one and the same post for all your work on each question.
+#'       Teams help each other using the follow-up discussions and the
+#'       team member responsible for a question edits their own answer
+#'       incorporating any suggestions or help they have received.
+#'       You don't need to repost the your final answer. The answer is
+#'       final because the date is past the last deadline.
+#'   
+#'   | Number    | Chapter 3 Problems     |
+#'   |-----------|------------------------|
+#'   |   1       |  1  12  27  44 66     |
+#'   |   2       |  4  14  32  45 70      |
+#'   |   3       |  5  15  34  48 72     |
+#'   |   4       |  7 19  36  54  74    |
+#'   |   5       |  8 21  38  56  77     |
+#'   |   6       |  11 24 40 65 80     |
+#'
+#' 
 ##+ CURRENT ----
 #' <span id='CURRENT'></span>
 #'    
