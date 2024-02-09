@@ -398,7 +398,7 @@ rglwidget()
 #' - [Chapters 3](files/Chapter-3/)
 #' 
 ##- ### Assignment 4 (team): Chapter 3 ------
-#' ### __Assignment 3__ (team):
+#' ### __Assignment 4__ (team):
 #' 
 #' - Deadlines (check the [course description](files/description.html) for the meaning of these deadlines)
 #'     - Deadline #1: Monday, February 12 at 8pm
@@ -438,6 +438,85 @@ rglwidget()
 #'   |   5       |  8 21  38  56  77     |
 #'   |   6       |  11 24 40 65 80     |
 #'
+#' 
+##- Day 14 ------
+#'
+#' ## __Day 14__: Wednesday, February 7
+#' 
+#' __Chapter 3 of the textbook (continuation):__
+#' 
+#' - [Chapters 3](files/Chapter-3/)
+#' 
+##- Day 15 ------
+#'
+#' ## __Day 15__: Friday, February 9
+#' 
+#' __Chapter 4 of the textbook:__
+#' 
+#' - [Chapters 4](files/Chapter-4/)
+#' 
+#' 
+##- ### Assignment 5 (optional) ------
+#' 
+#' <!---
+#' ### __Assignment 5__ (optional):
+#' 
+#' Some of you have requested exercises to practice R. These are
+#' R assignments from a higher-level course but you are welcome to explore
+#' them and discuss them on Piazza. There is no grade for trying this nor
+#' a penalty for not doing so.
+#' 
+#' First, you should install R and RStudio for your operating system. 
+#' 
+#' It's challenging to find a good way to
+#' 'learn R'.  It depend on where you are and where
+#' you want to go. Now, there's a plethora of on-line
+#' courses. See the blog post:
+#' [The 5 Most Effective Ways to Learn R](https://www.r-bloggers.com/the-5-most-effective-ways-to-learn-r/) 
+#' 
+#' In my opinion, ultimately, the best way is to 
+#' 
+#' - __play__ your way through the 'official' 
+#'   [manuals on CRAN](https://cran.r-project.org/manuals.html) 
+#'   starting with 'An Introduction to R' along with
+#'   'R Data Import/Export'. Note however that these materials
+#'   were developed before the current mounting concern
+#'   with reproducible research and some of the advice
+#'   should be deprecated, e.g. using 'attach' and
+#'   'detach' with data.frames.
+#' - read the 
+#'   [CRAN task views](https://cran.r-project.org/web/views) 
+#'   in areas that interest you.
+#' - Have a look at the over 500,000 questions tagged 'r' on
+#'   [stackoverflow](https://stackoverflow.com/questions/tagged/r?tab=newest&page=1&pagesize=15). 
+#' - At every opportunity, use R Markdown documents to work on assignments, project, 
+#'   etc.
+#'    
+#' Using R is like playing the piano. You can read and learn
+#' all the theory you want, ultimately you learn by __playing__.
+#'
+#' We will discuss 
+#' the script 
+#' [CAR_1.R](R/CAR_1/CAR_1.R). Copy it to a file in RStudio
+#' and __play__ with it line by line. You can also run
+#' the entire script with _Control-Shift-K_ to see how
+#' scripts can be used for reproducible research.
+#' 
+#' #### Exercises:
+#' 
+#' - From [New 4939 questions](questions/m4939_questions_2022.html)
+#'     - 5.1, 5.2, 5.3, 5.4, 5.5,
+#'     - 5.6.23, 5.6.24, 5.6.25, 5.6.26, 5.6.27,
+#'     - 6.1, 6.2, 6.3, 6.4, 6.5,
+#'     - 7.4, 7.5, 7.6, 7.7, 7.8,
+#'     - 8.1, 8.2, 8.3, 8.4, 8.5, 
+#'     - 8.6, 8.7, 8.8, 8.9, 8.10,
+#'     - 8.18.a, 8.18.b, 8.18.c, 8.18.d, 8.18.e, 
+#'     - 8.36.a, 8.36.b, 8.36.c, 8.36.d, 8.36.e, 
+#'     - 8.51.a, 8.51.b, 8.51.c, (write functions that would work on matrices of any size), 8.61.a, 8.62.a
+#'     - 12.1, 12.3, 12.5, 12.7, 12.9, 
+#'
+#' ---> 
 #' 
 ##+ CURRENT ----
 #' <span id='CURRENT'></span>
