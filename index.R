@@ -455,10 +455,52 @@ rglwidget()
 #' 
 #' - [Chapters 4](files/Chapter-4/)
 #' 
+##- Day 16 ------
+#'
+#' ## __Day 16__: Monday, February 12
 #' 
+#' __Chapter 4 of the textbook:__
+#' 
+#' - [Chapters 4](files/Chapter-4/)
+#' 
+##- Day 17 ------
+#'
+#' ## __Day 17__: Wednesday, February 14
+#' 
+#' __Chapter 4 of the textbook:__
+#' 
+#' - [Chapters 4](files/Chapter-4/)
+#' 
+##- Day 18 ------
+#'
+#' ## __Day 18__: Friday, February 16
+#' 
+#' __Chapter 4 of the textbook:__
+#' 
+#' - [Chapters 4](files/Chapter-4/)
+#' 
+##- ### Assignment 5 (team): Chapter 4 Part 1 ------
+#' ### __Assignment 5__ (team) Chapter 4 Part 1:
+#' 
+#' - Not compulsory, recommended practice questions.
+#' - Try them with your team.
+#' - The team numbers are only for guidance if you choose to use them.
+#' - Use the folder **assn_5** on Piazza.
+#' 
+#'   | Number    | Chapter 4 Part 1 Problems     |
+#'   |-----------|------------------------|
+#'   |   1       |  4  16  23      |
+#'   |   2       |  5  17  25       |
+#'   |   3       |  10  18  30       |
+#'   |   4       |  12 20  31      |
+#'   |   5       |  14 21  40       |
+#'   |   6       |  15 22 43    |
+#'
+
+
+#' <!---
 ##- ### Assignment 5 (optional) ------
 #' 
-#' <!---
 #' ### __Assignment 5__ (optional):
 #' 
 #' Some of you have requested exercises to practice R. These are
