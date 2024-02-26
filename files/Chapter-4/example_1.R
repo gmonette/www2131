@@ -1,4 +1,4 @@
-edit some more new 2
+
 sum((1:6)^2 )/6
 3.5^2
 
