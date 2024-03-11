@@ -507,8 +507,106 @@ rglwidget()
 #'   |   5       |  14 21  40       |
 #'   |   6       |  15 22 43    |
 #'
-
-
+#' 
+##- Day 27 ------
+#'
+#' ## __Day 27__: Friday, March 8
+#' 
+#' __Chapter 4 of the textbook:__
+#' 
+#' - [Chapters 4](files/Chapter-4/)
+#' 
+#' - __Online Optional Quiz on Wednesday, March 13__ 
+#' - Open book, open Internet, no human help.
+#' - Submit answer on Piazza
+#' - Material covered: Chapter 4, sections 4.1 to 4.4
+#' - Additional sample questions from Chapter 4: 
+#'   - 44, 45, 46, 47, 48, 49,
+#'     50, 51, 52, 54, 57, 59, 60
+#'     
+#' - __Online Optional Mid-Term on Friday, March 15__
+#'
+#' 
+##- Day 28 ------
+#'
+#' ## __Day 28__: Monday, March 11
+#' 
+#' __Sample Exam Questions for the exam on Friday, March 15:__
+#' 
+#' ___Question 1:___
+#' 
+#' A random rectangle has sides whose lengths are independent random variables, each with
+#' a uniform distribution on the interval $(0,2)$. Find the expected value of the area and
+#' the expected value
+#' of the perimeter of the square.
+#' 
+#' ___Question 2:___
+#'
+#' Let $Y_1$ have a Poisson($\lambda_1$) distribution and let
+#' $Y_2$ be independently distributed as a Poisson($\lambda_2$).
+#' 
+#' Derive the probability mass function of $Y = Y_1 + Y_2$.
+#' 
+#' ___Question 3:___
+#'
+#' Let $X_1, X_2, ..., X_n$ be independent Exponential($\lambda$) random variables. Derive the CDF and the PDF of
+#' $X_{(n)}$ where $X_{(n)} = \max_i X_i$.
+#' 
+#' ___Question 4:___
+#'
+#' Prove Bonferroni's inequality:
+#' $$
+#' P(A \cap B) \ge P(A) + P(B) - 1
+#' $$
+#' 
+#' ___Question 5:___
+#'
+#' The random variables $(X,Y)$ have joint density:
+#' 
+#' $$
+#' f_{XY}(x,y) = e^{-y}, \quad 0<x<y< \infty
+#' $$
+#' 
+#' Find the marginal density of $X$.
+#' 
+#' 
+#' __Sample Quiz Questions for the Quiz on Wednesday, March 9:__
+#' 
+#' (also sample exam questions)
+#' 
+#' ___Question 1:___
+#' 
+#' Suppose that mid-term marks, $X$, and final exam marks, $Y$, follow
+#' a bivariate normal distribution with the same mean $\mu_X = \mu_Y = 75$ and
+#' the same standard deviation of 10. Suppose the 
+#' correlation is 0.8.
+#' 
+#' a) What is the expected grade on the final exam for someone who scores
+#'    80 on the midterm?
+#' b) What is the 'expected grade' on the midterm for someone who scored
+#'    your answer to part (a) on the final exam?
+#' c) A friend, who isn't taking this course, tells you these answers don't
+#'    make sense. If someone who scores 80 on the midterm can expect, on
+#'    average, to get 'your answer to (a)' on the final exam, then someone who
+#'    gets 'your answer to (a)' on the final exam should have received, on average,
+#'    80 on the midterm.  Explain what's happening in a way your friend,
+#'    who isn't taking statistics, might be able to understand.
+#'    
+#' ___Question 2:___
+#' 
+#' Show that $\E(\Var(Y|X)) \le \Var(Y).$
+#' You may use the results of theorems in the text.
+#' 
+#' ___Question 3:___
+#' 
+#' Let $(X,Y)$ have a bivariate normal distribution with means $\E(X) = 5$, $\E(Y) = 10$.
+#' Let $X$ and $Y$ have standard deviations 4 and 10, respectively, and let their
+#' covariance be equal to 2. 
+#' 
+#' a) Find the equation for $\E(Y|X)$.   
+#' b) Use this equation to find $\Var(\E(Y|X))$.   
+#' c) Use the two previous results to obtain $\E(\Var(Y|X))$. 
+#' 
 #' <!---
 ##- ### Assignment 5 (optional) ------
 #' 
